@@ -1,0 +1,39 @@
+# section information
+section:
+  name: Projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+  - name: All
+    filter: "all"
+  - name: Professional
+    filter: "professional"
+  - name: Academic
+    filter: "academic"
+  - name: Hobby
+    filter: "hobby"
+
+# your projects
+projects:
+  - name: Scripts, Indicators
+    logo: images/projects/tradingview.png
+    role: Contributor
+    timeline: "March 2018 - Present"
+    repo: https://github.com/mokdarren/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+    #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Development of some indicators and scripts to enhance trading productivity
+    tags: ["Trading", "Algo", "Quant", "Hobby"]
+
+  - name: Algotrading Scripts, Indicators
+    logo: images/projects/oanda.png
+    role: Contributor
+    timeline: "March 2018 - Present"
+    repo: https://github.com/mokdarren/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+    #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Automation of trading strategies using OANDAV20 Rest API
+    tags: ["Trading", "Algo", "Quant", "Hobby"]

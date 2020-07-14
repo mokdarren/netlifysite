@@ -1,0 +1,17 @@
+# section information
+section:
+  name: Achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+  - title: NUS Business Study Award
+    image: images/achievements/award.jpg
+    summary: Awarded for excellence in acadamia.
+  - title: Unit's Best NSF Platoon Officer
+    image: images/achievements/diver.png
+    summary: Awarded in 2017 for excellence in leadership in Naval Diving Unit

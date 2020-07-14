@@ -1,0 +1,55 @@
+baseURL: http://mokdarren.com/
+languageCode: en-us
+title: "mokdarren"
+theme: "toha"
+
+# Allow raw html in markdown file
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+# Enable Google Analytics
+googleAnalytics: UA-172331799-1
+
+# Enable Disqus forum
+disqusShortname: does-not-exist
+
+# Enable global emoji support
+enableEmoji: true
+
+# Custom parameters
+params:
+  # copyright
+  copyright: © 2020 Copyright.
+
+  # background image of the landing page
+  background: "images/background.jpg"
+
+  # GitHub repo URL of your site
+  gitRepo: https://github.com/mokdarren
+
+  # specify whether you want to write blog post or not
+  enableBlogPost: true
+
+  # specify the list of custom menus that you want to show in the top navbar.
+  # they will be separated by a divider from the main menus.
+  customMenus:
+    #- name: Notes
+    #  url: https://hossainnotes.netlify.app/docs/example/
+
+  # some information about you
+  author:
+    name: "Darren Mok"
+    nickname: "Darren"
+    image: "images/avatarzoom.png"
+    # give your some contact information. they will be used in the footer
+    contactInfo:
+      email: "mokkwd@gmail.com"
+      phone: "+6583821019"
+      linkedin: "linkedin.com/mokdarren"
+    # a summary of what you do
+    summary:
+      - I am an Programmer
+      - I am a Trader
+      - I am an Entrepreneur

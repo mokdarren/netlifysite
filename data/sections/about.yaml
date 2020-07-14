@@ -1,0 +1,64 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Year 3 Business and Computer Science DDP
+# your company information
+company:
+  name: NUS.
+  url: "http://www.nus.edu.sg/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: "I continously seek challenges to improve my skillsets in the tech and finance industry. Equipped with machine learning and dataviz libraries in python, I backtest trading strategies and trade algorithmically using OANDAV20 restful API."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "mokkwd@gmail.com"
+
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://www.github.com/mokdarren"
+
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/mokdarren"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+  - name: Leadership
+    percentage: 75
+    color: blue
+  - name: Team Work
+    percentage: 90
+    color: yellow
+  - name: Communication
+    percentage: 85
+    color: pink
+  - name: Hard Working
+    percentage: 100
+    color: green
+  - name: Fast Learner
+    percentage: 85
+    color: sky
+  - name: Problem Solving
+    percentage: 85
+    color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"
