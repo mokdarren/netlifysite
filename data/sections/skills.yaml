@@ -12,20 +12,20 @@ section:
 skills:
   - name: Git
     icon: "images/skills/git.png"
-    summary: "Experienced with git-based development. Mostly, use Github."
+    summary: "Experienced with git-based development."
 
   - name: Python
     icon: "images/skills/python.png"
-    summary: "Experience creating ML solutions in Jupyter Notebook Environements. Main programming language for trading automation"
+    summary: "Experience creating ML solutions in Jupyter Notebook Environements. Main programming language for trading automation."
 
   - name: Javascript
     icon: "images/skills/javascript.png"
-    summary: "Know basic Java programming, used in NUS coursework"
+    summary: "Know basic Javascript programming, used in NUS coursework."
 
   - name: Java
     icon: "images/skills/java.png"
-    summary: "Know basic Javascript programming, used in NUS coursework, developped personal website in html/js/css"
+    summary: "Know basic Java programming, used in NUS coursework, developed personal website in html/js/css."
 
   - name: Excel VBA
     icon: "images/skills/excel.png"
-    summary: "Profecient in Excel functions and developing VBA macros to automate business processes"
+    summary: "Proficient in Excel functions and developing VBA macros to automate business processes."
