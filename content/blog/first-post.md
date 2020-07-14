@@ -1,42 +1,42 @@
 ---
-title: "Beggining with an end in mind"
+title: "Beggining with the end in mind"
 date: 2020-07-14T15:50:28+08:00
 author: "Darren"
-draft: true
+draft: false
 hero: "/assets/images/post1.jpg"
+categories:
+- programming
+- trading
+- web development
+- business
 ---
 
+<span style="font-size:1.25rem;">
+<span style="font-size:3rem;">COVID19</span> has not only shortened my dreamy 6-month long study abroad program in Sweden but also caused my internship at a reputable bank to be canceled. As Parkinson's Second Law puts it, "work expands to fill the time available for its completion". I had to do something about it to make my time productive. I never had the opportunity to explore Web technologies outside of my Academic Work in NUS. Therefore this was a good opportunity to explore the field of Web Development.
 
-Right
-left up
-m - sets margin
+Skills developed over quarantine so far (2 months):
 
-p - sets padding
+* OANDA RESTV20 (Python)
+    * I developed a python script that could be run over an AWS EC2 cloud server to execute my trading strategy algorithmically using OANDA's API.
+* AWS Cloud computing
+    * Learned the basics of AWS and Linux commands to perform simple cloud computations  
+* HTML, CSS, Jquery
+    * Learned the basics of some front-end technologies
+* Tensorflow
+    * Used TensorFlow to develop an ML solution for SHOPEE Code League
+    * Learned data-cleaning and model-optimisation techniques
+* Programming Interview questions
+    *  Practiced 20+ medium questions on LeetCode 
 
-t - sets margin-top or padding-top
+To-Do next month (1 month):
 
-b - sets margin-bottom or padding-bottom
+* Backend Technologies (PHP, Ruby)
+* Database Management (SQL)
+* More front end (ReactJS)
+* 20 medium questions on Leetcode
+* Execute and record trading algorithm on the live server
+* Post a blog post every 2/3 days (English)
 
-l - sets margin-left or padding-left
+I will commit myself to the above tasks and continue to update them on this blog! Aligned with my learning goals from July to Mid August, I intend to start a marketplace business from scratch as part of a new personal project to **potentially build an income stream** and **practice the full spectrum of web development** from front-end to back-end. It will be a long road to take (cover page) but every marathon starts with a step and this is the first step I'm taking!
 
-r - sets margin-right or padding-right
-
-x - sets both padding-left and padding-right or margin-left and margin-right
-
-y - sets both padding-top and padding-bottom or margin-top and margin-bottom
-
-blank - sets a margin or padding on all 4 sides of the element
-
-0 - sets margin or padding to 0
-
-1 - sets margin or padding to .25rem (4px if font-size is 16px)
-
-2 - sets margin or padding to .5rem (8px if font-size is 16px)
-
-3 - sets margin or padding to 1rem (16px if font-size is 16px)
-
-4 - sets margin or padding to 1.5rem (24px if font-size is 16px)
-
-5 - sets margin or padding to 3rem (48px if font-size is 16px)
-
-auto - sets margin to auto
+ So why the post title? From "7 Habits of effective people" by Dr. Stephen R. Covey, the second habit that he proposes was to seek clarity and vision in our lives. To do so, I'm making the conscious effort to visualise the end goal of this summer break and commit to those goals. My long term goal for this page is to continuously update my progress, share small programming snippets and reflections on my everyday life. 
