@@ -6,7 +6,7 @@ section:
   showOnNavbar: true
 
 # your designation
-designation: Year 3 Business and Computer Science DDP
+designation: Year 4 Business (Finance) student with Computer Science Major
 # your company information
 company:
   name: NUS.
@@ -16,7 +16,7 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I continously seek challenges to improve my skillsets in the tech and finance industry. Equipped with machine learning and dataviz libraries in python, I backtest trading strategies and trade algorithmically using OANDAV20 restful API."
+summary: "I continously seek challenges to improve my skillsets in the tech and finance industry. Equipped with a quantitative finance skillset, I backtest strategies and trade them algorithmically."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
