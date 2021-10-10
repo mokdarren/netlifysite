@@ -38,7 +38,7 @@ projects:
     role: Developer
     timeline: "Aug 2020 - Oct 2020"
     repo: https://github.com/mokdarren/ip # If your project is a public repo on GitHub, then provide this link. it will show star count.
-    summary: Chatbot to store tasks and contacts ~3kloc
+    summary: Chatbot to store tasks and contacts ~3kloc (https://mokdarren.github.io/ip/)
     tags: ["academic", "software"]
 
   - name: Gaea Official

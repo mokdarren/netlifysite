@@ -16,16 +16,28 @@ skills:
 
   - name: Python
     icon: "images/skills/python.png"
-    summary: "Experience creating ML solutions in Jupyter Notebook Environements. Main programming language for trading automation."
+    summary: "Main programming language for trading automation. Proficient with backtesting frameworks: backtrader and vectorbt"
+
+  - name: R
+    icon: "images/skills/r.jpg"
+    summary: "Experienced in backesting TAA strategies with R"
+
+  - name: Microsoft Power BI
+    icon: "images/skills/pbi.png"
+    summary: "Experience with PBI dashboarding to present real time TAA strategy performance to portfolio managers"
+
+  - name: SQL
+    icon: "images/skills/sql.png"
+    summary: "Experience with Database management to store quantitative finance data"
 
   - name: Javascript
     icon: "images/skills/javascript.png"
-    summary: "Know basic Javascript programming, used in NUS coursework."
+    summary: "Know basic Javascript programming, developed personal website in html/js/css and E-commerce website"
 
   - name: Java
     icon: "images/skills/java.png"
-    summary: "Know basic Java programming, used in NUS coursework, developed personal website in html/js/css."
+    summary: "Proficient in Java programming, used in NUS coursework, developed chatbot with java (3kloc). Achieved A- in Data structure and Algorithms course (Java)"
 
   - name: Excel VBA
     icon: "images/skills/excel.png"
-    summary: "Proficient in Excel functions and developing VBA macros to automate business processes."
+    summary: "Proficient in Excel functions and developing VBA macros"
