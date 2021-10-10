@@ -10,9 +10,61 @@ section:
 # Your experiences
 experiences:
   - company:
+      name: Eastspring Investments
+      url: "https://www.eastspring.com/sg/"
+      location: Singapore
+      # company overview
+      overview: Global Asset Manager with US$254bn AUM
+    positions:
+      - designation: Quantitative Analyst
+        start: Jan 2021
+        end: Aug 2021
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Helped to build and extend robust data infrastructure which was key to automated and quantitative Tactical Asset Allocation (TAA) strategies.
+          - Proposed and implemented new ways to present backtested performance of strategies on Power BI dashboards to portfolio managers with the use of R and Microsoft Power BI.
+        
+  - company:
+      name: VI Fund Management/Hidden Champions Capital Management
+      url: "https://hiddenchampionsfund.com/"
+      location: Singapore
+      # company overview
+      overview: Long-only equity fund
+    positions:
+      - designation: Quantitative Analyst
+        start: Jan 2021
+        end: Aug 2021
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Back-tested investment strategies (Python) and automated portfolio rebalancing processes (VBA).
+          - Implemented automated Strategic Asset Allocation strategy by optimizing Sharpe Ratio using Excel Solver and VBA which cut down time for investment analysis by 95%.
+        
+  - company:
+      name: Shopee Regional Finance
+      url: "https://shopee.sg/"
+      location: Singapore
+      # company overview
+      overview: Leading E-commerce marketplace in South East Asia
+    positions:
+      - designation: Systems Intern
+        start: Aug 2020
+        end: Dec 2020
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Spearheaded budget automation projects to cut down Financial Reporting consolidation by 23 hrs weekly.
+          - Use Oracle Financial Cloud Java API to automate finance processes.
+          - Designed UI Path (RPA) protoype to automate Invoice Processing for Account Payables team. 
+
+  - company:
       name: NuMoney
       url: "https://numoney.store/"
-      location: Tai Seng
+      location: Singapore
       # company overview
       overview: NuMoney is a leading OTC exchange in South East Asia
     positions:

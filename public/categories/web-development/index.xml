@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web development on mokdarren</title>
+    <link>http://localhost:1313/categories/web-development/</link>
+    <description>Recent content in web development on mokdarren</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jul 2020 15:50:28 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beggining with the end in mind</title>
+      <link>http://localhost:1313/blog/first-post/</link>
+      <pubDate>Tue, 14 Jul 2020 15:50:28 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/first-post/</guid>
+      <description>COVID19 has not only shortened my dreamy 6-month long study abroad program in Sweden but also caused my internship at a reputable bank to be canceled. As Parkinson&#39;s Second Law puts it, &#34;work expands to fill the time available for its completion&#34;. I had to do something about it to make my time productive. I never had the opportunity to explore Web technologies outside of my Academic Work in NUS. Therefore this was a good opportunity to explore the field of Web Development.</description>
+    </item>
+    
+  </channel>
+</rss>

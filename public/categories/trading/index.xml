@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trading on mokdarren</title>
+    <link>http://localhost:1313/categories/trading/</link>
+    <description>Recent content in trading on mokdarren</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jul 2020 16:40:10 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/trading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mid month algo update</title>
+      <link>http://localhost:1313/blog/trading/mid_month_update/</link>
+      <pubDate>Thu, 30 Jul 2020 16:40:10 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/trading/mid_month_update/</guid>
+      <description>Greetings fellow traders,
+Time for a mid-month update of the flush algo-trader. Over the past 2 weeks, we achieved an ROI of 6.19% with a total of 11 trades. Once again, if anyone is keen to follow the progress of this script: https://bit.ly/2ZBIAQv
+If you have noticed I have been trading exclusively on Brent Crude Oil the past 2 weeks and this is because the backtests I have performed showed that this strategy works exceptionally well on this derivative.</description>
+    </item>
+    
+    <item>
+      <title>Trading Alogrithmically, powered by OANDA</title>
+      <link>http://localhost:1313/blog/trading/flush/</link>
+      <pubDate>Tue, 14 Jul 2020 20:18:13 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/trading/flush/</guid>
+      <description>This entry will mark the start of running a live algorithm on OANDA, I will document it&#39;s performance weekly on this blog to determine it&#39;s profitability. I call this strategy the Flush strategy, and it makes trades when a significant move is felt in the market. After performing backtests on 2 years of past data, I found this strategy to be highly profitable on volatile markets such as Crude Oil and Gold.</description>
+    </item>
+    
+    <item>
+      <title>Beggining with the end in mind</title>
+      <link>http://localhost:1313/blog/first-post/</link>
+      <pubDate>Tue, 14 Jul 2020 15:50:28 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/first-post/</guid>
+      <description>COVID19 has not only shortened my dreamy 6-month long study abroad program in Sweden but also caused my internship at a reputable bank to be canceled. As Parkinson&#39;s Second Law puts it, &#34;work expands to fill the time available for its completion&#34;. I had to do something about it to make my time productive. I never had the opportunity to explore Web technologies outside of my Academic Work in NUS. Therefore this was a good opportunity to explore the field of Web Development.</description>
+    </item>
+    
+  </channel>
+</rss>
