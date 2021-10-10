@@ -1,7 +1,7 @@
 ---
 title: "Flush Algo 100% win rate"
 date: 2020-07-17T14:35:22+08:00
-draft: false
+draft: true
 hero: "/assets/images/post3.jpg"
 ---
 

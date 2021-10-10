@@ -1,7 +1,7 @@
 ---
 title: "Trading Alogrithmically, powered by OANDA"
 date: 2020-07-14T20:18:13+08:00
-draft: false
+draft: true
 hero: "/assets/images/post2.jpg"
 categories:
 - programming

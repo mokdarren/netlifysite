@@ -28,15 +28,4 @@ Skills developed over quarantine so far (2 months):
 * Programming Interview questions
     *  Practiced 20+ medium questions on LeetCode 
 
-To-Do next month (1 month):
-
-* Backend Technologies (PHP, Ruby)
-* Database Management (SQL)
-* More front end (ReactJS)
-* 20 medium questions on Leetcode
-* Execute and record trading algorithm on the live server
-* Post a blog post every 2/3 days (English)
-
-I will commit myself to the above tasks and continue to update them on this blog! Aligned with my learning goals from July to Mid August, I intend to start a marketplace business from scratch as part of a new personal project to **potentially build an income stream** and **practice the full spectrum of web development** from front-end to back-end. It will be a long road to take (cover page) but every marathon starts with a step and this is the first step I'm taking!
-
  So why the post title? From "7 Habits of effective people" by Dr. Stephen R. Covey, the second habit that he proposes was to seek clarity and vision in our lives. To do so, I'm making the conscious effort to visualise the end goal of this summer break and commit to those goals. My long term goal for this page is to continuously update my progress, share small programming snippets and reflections on my everyday life. 

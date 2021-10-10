@@ -1,7 +1,7 @@
 ---
 title: "Mid month algo update"
 date: 2020-07-30T16:40:10+08:00
-draft: false
+draft: true
 hero: "/assets/images/post4.jpg"
 categories:
 - programming
